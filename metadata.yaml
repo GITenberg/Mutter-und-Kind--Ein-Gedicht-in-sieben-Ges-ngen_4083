@@ -1,0 +1,32 @@
+_repo: Mutter-und-Kind--Ein-Gedicht-in-sieben-Ges-ngen_4083
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hebbel, Friedrich
+    aliases:
+    - Hebbel, Christian Friedrich
+    - Hebbel, F. (Friedrich)
+    - Hebbel, C. F. (Christian Friedrich)
+    birthdate: 1813
+    deathdate: 1863
+    gutenberg_agent_id: '1061'
+    url: http://www.gutenberg.org/2009/agents/1061
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
+    - http://de.wikipedia.org/wiki/Friedrich_Hebbel
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4083'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- 19th century'
+- !lcc 'PT'
+- GITenberg
+title: 'Mutter und Kind: Ein Gedicht in sieben Gesängen'
+url: http://www.gutenberg.org/ebooks/4083
