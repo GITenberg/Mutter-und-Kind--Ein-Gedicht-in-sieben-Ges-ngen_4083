@@ -1,5 +1,8 @@
 _repo: Mutter-und-Kind--Ein-Gedicht-in-sieben-Ges-ngen_4083
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hebbel, Friedrich
@@ -15,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Christian_Friedrich_Hebbel
     - http://de.wikipedia.org/wiki/Friedrich_Hebbel
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4083#Mutter-und-Kind--Ein-Gedicht-in-sieben-Ges-ngen
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
